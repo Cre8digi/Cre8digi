@@ -394,6 +394,10 @@ div[id] {
     transition: 0.5s;
 }
 
+/* Different backgrounds for each slide */
+
+
+
 @media (min-width: 992px) {
     .bg-breadcrumb {
         padding: 140px 0 60px 0;

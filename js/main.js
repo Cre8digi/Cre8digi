@@ -25,27 +25,22 @@
     });
 
     // Hero Header Carousel
-    $("#text-slider").owlCarousel({
+  
+    // Hero Header carousel
+    $(".header-carousel").owlCarousel({
+        animateOut: 'fadeOut',
         items: 1,
-        loop: true,
-        nav: false,
-        dots: true,
-        smartSpeed: 1000,
+        margin: 0,
+        stagePadding: 0,
         autoplay: true,
-        autoplayTimeout: 10000,
-        autoplayHoverPause: false,
-        onTranslated: function (event) {
-            let index = event.item.index % event.item.count;
-            let timeout = 10000;
-
-            if (index === 1) timeout = 5000;
-            if (index === 2) timeout = 10000;
-
-            $('#text-slider').trigger('stop.owl.autoplay');
-            setTimeout(() => {
-                $('#text-slider').trigger('play.owl.autoplay', [timeout]);
-            }, 50);
-        }
+        smartSpeed: 500,
+        dots: true,
+        loop: true,
+        nav : true,
+        navText : [
+            '<i class="bi bi-arrow-left"></i>',
+            '<i class="bi bi-arrow-right"></i>'
+        ],
     });
 
     // Blog Carousel
@@ -137,11 +132,7 @@ window.addEventListener("scroll", () => {
     });
 });
 
-// Smooth scroll via Scrollbar.js
-Scrollbar.init(document.querySelector('#scroll-container'), {
-    damping: 0.07,
-    alwaysShowTracks: true
-});
+
 
 // WhatsApp Form Submission
 document.addEventListener("DOMContentLoaded", function () {
