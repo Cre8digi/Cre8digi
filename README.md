@@ -21,7 +21,7 @@
 
 ### 🧠 Don’t Eat All, Leave Some 😋
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cre8digi&theme=github-dark&hide_border=true)
+![snake gif](https://github.com/Cre8digi/Cre8digi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
