@@ -1,50 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sailesh Prajapati</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+# 👋🏼 Hi, I'm Sailesh
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F7DF5&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;React+%2F+Next.js+%7C+Tailwind+CSS+%7C+Node.js;Let's+Create+Something+Awesome+Together" alt="Typing SVG" />
-</p>
+### 🚀 A FULL STACK DEVELOPER & DIGITAL AGENCY OWNER
 
----
-
-- 🌱 I’m currently learning **Next.js, SEO, and Web Animations**
-- 💼 Running a digital agency called **CRE8DIGI**
-- 👨‍💻 All of my projects are available at [cre8digi.com](https://cre8digi.com)
-- 📫 How to reach me: **cre8digi@gmail.com**
-- ⚡ Fun fact: *I love solving real-world problems with code.*
+- 🔧 I'm currently building beautiful, responsive websites & full-stack web apps.
+- 🤝 I'm open to collaboration on web development, SEO & UI/UX design projects.
+- 🛡️ I focus on clean code, scalability, and performance.
+- ⚙️ Learning Next.js, API integration, and advanced SEO optimization.
+- 🧠 Exploring design systems, animations, and automation tools.
+- 🥇 Fun fact: I built multiple business websites & landing pages within a day.
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sailesh-prajapati)
+[![Portfolio](https://img.shields.io/badge/Website-CRE8DIGI.COM-black?style=for-the-badge)](https://cre8digi.com)
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 Don’t Eat All, Leave Some 😋
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cre8digi&theme=github-dark&hide_border=true)
+
+---
+
+## ⚒️ Tech Stack
+
+### 👨‍💻 Languages
+![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Web & Frameworks
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ☁️ Databases & Cloud
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cre8digi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cre8digi&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Cre8digi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔗 Let's Connect:
-<p align="left">
-  <a href="https://linkedin.com/in/sailesh-prajapati" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cre8digi@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://cre8digi.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+## 📫 Let's Connect!
+
+If you want this kind of design for your agency, portfolio, or business website, feel free to reach out 👉 **cre8digi@gmail.com**
