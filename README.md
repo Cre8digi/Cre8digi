@@ -21,7 +21,8 @@
 
 ### 🧠 Don’t Eat All, Leave Some 😋
 
-![snake gif](https://github.com/Cre8digi/Cre8digi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Ali-Ch-001/Ali-Ch-001/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
