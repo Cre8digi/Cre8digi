@@ -1,3 +1,4 @@
+
 (function ($) {
     "use strict";
 
@@ -143,8 +144,16 @@ Scrollbar.init(document.querySelector('#scroll-container'), {
 });
 
 // WhatsApp Form Submission
-document.getElementById("contact-form").addEventListener("submit", function (e) {
-    e.preventDefault();
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("contact-form");
+
+  if (!form) {
+    console.error("❌ Form element not found");
+    return;
+  }
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault(); // 🔒 Prevent page reload
 
     const name = document.getElementById("name").value.trim();
     const email = document.getElementById("email").value.trim();
@@ -153,17 +162,21 @@ document.getElementById("contact-form").addEventListener("submit", function (e) 
     const subject = document.getElementById("subject").value.trim();
     const message = document.getElementById("message").value.trim();
 
-    const whatsappMessage = `Hello CRE8DIGI! 👋
+    const whatsappMessage = `✨ *New Project Inquiry via Website* ✨
 
-*Name:* ${name}
-*Email:* ${email}
-*Phone:* ${phone}
-*Project:* ${project}
-*Subject:* ${subject}
-*Message:* ${message}`;
+👤 *Name:* ${name}
+📧 *Email:* ${email}
+📞 *Phone:* ${phone}
+📁 *Project Type:* ${project}
+📝 *Subject:* ${subject}
+💬 *Message:* 
+${message}
+
+📩 Please reach out as soon as possible. Thank you! 🙏`;
 
     const phoneNumber = "918239374563";
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 
     window.open(whatsappURL, "_blank");
+  });
 });
